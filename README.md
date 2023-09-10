@@ -12,6 +12,10 @@ This is a simple password generator, that can generate passwords based on users'
 
 This password generator can create random strong password for, based on your whims.
 
+## Installation
+
+There is a link for deployed application https://stasbaz.github.io/password_generator/
+
 ## How to Use
 
 - Open the password generator application in your web browser.
