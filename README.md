@@ -26,6 +26,3 @@ Confirm whether you want to include lowercase letters, uppercase letters, number
 - Click "OK" or "Cancel" on the prompts to select or deselect the criteria.
 - After confirming your criteria, the generated password will be displayed in the designated area on the page.
 - You can now copy the password and use it for your accounts.
-
-## Screenshot Of My Generator
-![Screenshot of my working generator](../friendly-parakeet/images/generator.png)
