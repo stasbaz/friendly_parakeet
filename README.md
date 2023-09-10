@@ -24,4 +24,4 @@ Confirm whether you want to include lowercase letters, uppercase letters, number
 - You can now copy the password and use it for your accounts.
 
 ## Screenshot Of My Generator
-![Screenshot of my working generator](../friendly-parakeet/generator.png)
+![Screenshot of my working generator](./Develop/generator.png)
